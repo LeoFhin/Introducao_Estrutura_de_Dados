@@ -21,4 +21,3 @@ else: # Senão
 
 # Imprime o resultado
 print(f'O fatorial de {numero} é: {fatorial}')
-
