@@ -1,5 +1,7 @@
 #Faça um programa que calcule a média de três números inseridos pelo usuário.
 
+#Aluno = Leonardo santos de lima. P2-B
+
 notas = [] #lista para receber o valor de num
 
 for i in range(3): #loop para o recebimento dos valores

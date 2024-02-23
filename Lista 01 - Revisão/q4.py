@@ -1,8 +1,11 @@
 #Crie um programa que leia uma lista de números e exiba o maior e o menor valor da lista.
 
-lista = [] #lista para guardar os valores
+#Aluno = Leonardo santos de lima. P2-B
 
-for i in range(5): #loop para arrecadar os valores 
+lista = [] #lista para guardar os valores
+entradas = int(input('Dígite o número de entradas: '))
+
+for i in range(entradas): #loop para arrecadar os valores 
 
     num = int(input('Informe o valor: '))
     lista.append(num) #append adiciona os valores ao final da lista

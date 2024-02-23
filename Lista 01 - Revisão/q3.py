@@ -1,6 +1,8 @@
 #Escreva um programa que solicite um número ao usuário e imprima todos os números pares de 0 até
 #esse número.
 
+#Aluno = Leonardo santos de lima. P2-B
+
 numeros = [] #lista para guardar os valores
 
 num = int(input('Dígite um número: ')) #input para receber o valor
